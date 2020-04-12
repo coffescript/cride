@@ -1,2 +1,4 @@
-# cride
-App django, docker, redis and celery
+Comparte Ride
+=============
+
+Group-bounded, invite-only, carpooling platform
